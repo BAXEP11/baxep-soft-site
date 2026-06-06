@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Глобальное обновление 1.0",
+    "content": "Мы добавили систему банд и новые квесты. Заходи!",
+    "image": "https://baxep-soft.ct.ws/news/update.jpg"
+  },
+  {
+    "title": "Новый автопарк",
+    "content": "В автосалоны завезли 15 новых спортивных машин.",
+    "image": "https://baxep-soft.ct.ws/news/cars.jpg"
+  },
+  {
+    "title": "Скидки в магазинах",
+    "content": "Только в эти выходные скидки 50% на всё оружие.",
+    "image": "https://baxep-soft.ct.ws/news/sale.jpg"
+  },
+  {
+    "title": "Турнир по дрифту",
+    "content": "Регистрируйся на форуме и покажи, кто тут король дорог.",
+    "image": "https://baxep-soft.ct.ws/news/drift.jpg"
+  },
+  {
+    "title": "Набор в администрацию",
+    "content": "Хочешь помогать серверу? Мы ждем твою заявку.",
+    "image": "https://baxep-soft.ct.ws/news/admin.jpg"
+  }
+]
