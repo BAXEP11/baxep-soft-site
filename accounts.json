@@ -1,0 +1,16 @@
+{
+  "product": "BAXEP-SOFT Account",
+  "policyVersion": 1,
+  "blockedVersions": [
+    "26H10.17"
+  ],
+  "blockedVersionsForRegistration": [
+    "26H10.17"
+  ],
+  "blockedVersionsForLogin": [
+    "26H10.17"
+  ],
+  "message": "Для версий из blockedVersionsForLogin запрещён вход через BAXEP-SOFT Account; для версий из blockedVersionsForRegistration запрещено создание аккаунтов. Локальные профили устройства разрешены.",
+  "allowLocalProfilesOnBlockedVersions": true,
+  "localProfilesPolicy": "Локальные профили устройства разрешены на всех версиях, включая заблокированные."
+}
